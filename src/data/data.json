@@ -1,0 +1,54 @@
+{
+    "articles": [
+      {
+        "title": "ASTRO LOOSE BAGGY JEANS",
+        "prix": "60€",
+        "detail": "Prendre en blanc pour que je sois drip avec mon pull Forever Vacation",
+        "theme": "Vêtement",
+        "taille": "30/32",
+        "imageUrl": "https://public.assets.hmgroup.com/assets/003/67/b8/67b8fcacb25229bf02ce396b729c211698ff58ba_lg-1.jpg"
+      },
+      {
+        "title": "ASTRO LOOSE BAGGY JEANS",
+        "prix": "60€",
+        "detail": "Faut que je cook un outifit avec mais j'suis pauvre",
+        "theme": "Vêtement",
+        "taille": "30/32",
+        "imageUrl": "https://public.assets.hmgroup.com/assets/003/91/22/91224837fce17b8adb07e3e0a1171a8a3b980544_lg-1.jpg"
+      },
+      {
+        "title": "Furious black Ultimate PreWorkout",
+        "prix": "49.90€",
+        "detail": "Tylan, t'as perdu le pari, tu sais ce qu'il te reste à faire",
+        "theme": "Complément Alimentaire",
+        "taille": "500g",
+        "imageUrl": "https://public.assets.hmgroup.com/assets/003/a5/e4/a5e405149303c3c1f21afc925c238e581bc24f63_lg-1.jpg"
+      },
+      {
+        "title": "Arrival T-Shirt",
+        "prix": "20€",
+        "detail": "Prendre en noir vu car j'aime pas la couleur",
+        "theme": "Vêtement",
+        "taille": "L",
+        "imageUrl": "https://public.assets.hmgroup.com/assets/003/91/22/91224837fce17b8adb07e3e0a1171a8a3b980544_lg-1.jpg"
+      },
+      {
+        "title": "Whey Native Vanille",
+        "prix": "109.95€",
+        "detail": "Prendre gout vanille. Bien trop chère pour qu'une personne l'achète tout seul (sauf Rémi et Yan, trop riche :))",
+        "theme": "Complément Alimentaire",
+        "taille": "4kg",
+        "imageUrl": "https://www.nutrimuscle.com/cdn/shop/files/WHBA400020-WHEY-NATIVE-4KG-V-10L-20240530122117.png?v=1719411975&width=990"
+      }, 
+      {
+        "title": "Autres idées",
+        "prix": "Ne vous ruinez pas mdr",
+        "detail": "J'ai fait une liste comme si vous étiez mes darons alors que j'ai fait le site juste car je me faisais juste chier. Doigts de pieds + ElMordjène, je dis pas non",
+        "theme": "Autre",
+        "taille": "Pour les hauts, c'est souvent L",
+        "imageUrl": "https://pbs.twimg.com/media/FoDbvQHXoAEhIxh.jpg"
+      }
+    ]
+  }
+
+  
